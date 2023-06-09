@@ -1,5 +1,5 @@
 # tam-blog
-
+This is the frontend-side for my blog. It is built with Nuxt.js and TailwindCSS.
 ## Build Setup
 
 ```bash
